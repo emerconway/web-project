@@ -1,1 +1,45 @@
+<html>
+
+ <head>
+  <title>Non-Tourist Tourist Guide</title>
+  <link rel="stylesheet" type="text/css" href="css/projectstyles.css"
+
+ </head>
+<body>
+ <div>
+  <h1>A Non-Tourist Tourist Guide to Edinburgh</h1>
+  <p><i>By 'The Red Hot Coding Peppers'</i></p>
+   <h2>Because "you can check out, but you can never leave"</h2>
+   <img src ="edinburgh.jpg" alt="image of edinburgh" width="500px">
+  </div>
+
+  <div>
+    <p>Over 3 million tourists visited Edinburgh in 2019. The castle, bus tours, tartan scarves, Harry Potter, whisky ... blah blah blah.</p>
+    <p>We believe there's so much more to our class city. If you're here for a weekend, have been studying here for a few years, or have lived here your whole life, we hope that you'll discover something a little bit different in this <b>'Non-Touristy Tourist Guide To Edinburgh'</b></p>
+  </div>
+
+<div>
+<h3>Where do you want to explore?</h3>
+    <p>
+    <ul>
+      <li>Newington</li>
+      <li>Marchmont</li>
+      <li>Tollcross</li>
+      <li>New Town</li>
+      <li>Leith</li>
+    </ul>
+ </p>
+</div>
+
+<div>
+ <h2><em>Our Recommendations for This Month</em></h2>
+ <img src ="leithfest.jpg" alt="EH6 Festival" width="200px">
+ <img src ="bedlam.jpg" alt="Bedlam Theatre" width="200px">
+ <img src ="indigovelvet.jpg" alt="Gig at Mash House" width="200px">
+</div>
+
+</body>
+
+
+</html>
 
