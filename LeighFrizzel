@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Non-Tourist Tourist Guide</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
+</head>
+<body>
+<div>
+  <body background="skyline.png">
+  <h1 style="font-size:500%;">THE NON TOURISTY</h1>
+  <h2 style="font-size:400%;">TOURIST GUIDE</h2>
+  <h3 style="font-size:300%;">Edinburgh, Scotland</h3>
+</div>
+
+<div>
+  <p1 style="font-size:200%;"><center> Edinburgh is a hub for all things to check out.</center></p1>
+  &nbsp;
+  <p2 style="font-size:200%;"><center>Let this guide show you the best places you need to see!</center></p2>
+  &nbsp;
+  <p3 style="font-size:200%;"><center>Make the most of your time in Edinburgh</center></p3>
+
+  <h4><center>There are so many places to explore!</center></h4>
+    <ul id="nav">
+      <li>
+        <a href="#"><span>NEWINGTON</span></a>
+      </li>
+      &nbsp; &nbsp; &nbsp;&nbsp;
+      <li>
+        <a href="#"><span>MORNINGSIDE</span></a>
+      </li>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      <li>
+        <a href="#"><span>LEITH</span></a>
+      </li>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      <li>
+        <a href="#"><span>NEW TOWN</span></a>
+      </li>
+      &nbsp;
+    </ul>
+</div>
