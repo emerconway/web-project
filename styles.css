@@ -1,0 +1,21 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  align-items: center;
+  <style>
+  .column {
+       width:200px;
+       float:left
+}
+img {
+  display: flex;
+  padding: 20px;
+  margin: 1 auto;
+  border-radius: 130px;
+}
+#images {
+  white-space: nowrap;
+}
